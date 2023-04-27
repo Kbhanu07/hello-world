@@ -1,3 +1,4 @@
+
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
@@ -10,10 +11,6 @@
 
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
-    <br>
-   
-    <label for="Location"><b>Enter Location</b></label>
-    <input type="text" placeholder="Enter your location" name="Location" id="Location" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
@@ -35,7 +32,7 @@
  <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning Kota Bhanu Prakash </h1>
+   <h1> Thankyou, Happy Learning </h1>
 
 
 </form>
